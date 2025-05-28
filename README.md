@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erhan Gundogan</h1>
 <h3 align="center">A passionate engineer from Berlin/Germany</h3>
 
-- 🔭 I’m currently working on [Next Generation AIOps Platform](https://opsgen.cc)
+- 🔭 I’m currently working on the Next Generation AIOps Platform
 
 - 🌱 I’m currently learning **AI, LLMs, Agents etc.**
 
