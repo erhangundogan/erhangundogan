@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erhan Gundogan</h1>
-<h3 align="center">A passionate engineer from Berlin/Germany</h3>
+<h3 align="center">Engineer & Entrepreneur from Berlin 🇩🇪</h3>
 
 - 🔭 I’m currently working on the Next Generation AIOps Platform
 
