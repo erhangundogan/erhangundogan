@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on the Next Generation AIOps Platform
 
-- 🌱 I’m currently learning **AI, LLMs, Agents etc.**
+- 🌱 Recently using moslty **LLMs, agents, serverless stuff etc.**
 
 - 📫 How to reach me erhan.gundogan@gmail.com
 
